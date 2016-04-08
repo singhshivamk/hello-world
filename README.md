@@ -1,2 +1,2 @@
 # hello-world
-i started learning github procedure 
+hey mow i aam here, this is edit proceduem i.e. commit
